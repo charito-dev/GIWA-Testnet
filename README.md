@@ -1,4 +1,4 @@
-# [Indonesia]
+# Indonesia
 
 - Python 3.10 atau lebih baru
 - Git
@@ -29,7 +29,7 @@
 Project ini dibuat oleh Charito untuk tujuan pembelajaran dan pengembangan.
 
 ============================================================================
-# [English]
+# English
 
 - Python 3.10 or newer
 - Git
