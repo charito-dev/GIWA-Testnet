@@ -53,7 +53,7 @@ Project ini dibuat oleh Charito untuk tujuan pembelajaran dan pengembangan.
 This project was created by Charito for educational and development purposes.
 =============================================================================
 # SUPPORT
-- BITCOIN: bc1pvp6dt5v4k5lfyhldfuravqg3zrzvl7t2mkw4n72tae70235q6cyqh44tg2
-- ETH,BNB,POL,USDT/USDC EVM: 0xdA8b413B23D20601e8aF7278B5798b26999Ce762
-- SOLANA: 4yPrmba7d38VXfJyyXeWtbTsVJdNcNYp3BuYKjkk3G9x
-- TRON: TEyJgHsVnbKjU7wVkrCo6RAJg8rzLCJF81
+- Bitcoin bc1pvp6dt5v4k5lfyhldfuravqg3zrzvl7t2mkw4n72tae70235q6cyqh44tg2
+- Evm 0xdA8b413B23D20601e8aF7278B5798b26999Ce762
+- Solana 4yPrmba7d38VXfJyyXeWtbTsVJdNcNYp3BuYKjkk3G9x
+- Tron TEyJgHsVnbKjU7wVkrCo6RAJg8rzLCJF81
