@@ -1,4 +1,4 @@
-[Indonesia]
+# [Indonesia]
 
 - Python 3.10 atau lebih baru
 - Git
@@ -29,7 +29,7 @@
 Project ini dibuat oleh Charito untuk tujuan pembelajaran dan pengembangan.
 
 ============================================================================
-[English]
+# [English]
 
 - Python 3.10 or newer
 - Git
@@ -37,7 +37,7 @@ Project ini dibuat oleh Charito untuk tujuan pembelajaran dan pengembangan.
 
 ---
 
-#Installation on Termux
+# Installation on Termux
 
 1. pkg update && pkg upgrade -y
 2. pkg install python git -y
@@ -59,6 +59,6 @@ Project ini dibuat oleh Charito untuk tujuan pembelajaran dan pengembangan.
 5. Run the script
 python GIWA.py
 
-## License
+# License
 
 This project was created by Charito for educational and development purposes.
