@@ -21,8 +21,7 @@
 - ```python GIWA.py```
 
 # Lisensi
-Project ini dibuat oleh Charito untuk tujuan pembelajaran dan pengembangan.
-============================================================================
+- Project ini dibuat oleh Charito untuk tujuan pembelajaran dan pengembangan.
 # English
 
 - Python 3.10 or newer
@@ -49,8 +48,7 @@ Project ini dibuat oleh Charito untuk tujuan pembelajaran dan pengembangan.
 - ```python GIWA.py```
   
 # License
-This project was created by Charito for educational and development purposes.
-=============================================================================
+- This project was created by Charito for educational and development purposes.
 # SUPPORT
 - bitcoin ```bc1pvp6dt5v4k5lfyhldfuravqg3zrzvl7t2mkw4n72tae70235q6cyqh44tg2```
 - evm ```0xdA8b413B23D20601e8aF7278B5798b26999Ce762```
