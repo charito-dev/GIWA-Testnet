@@ -5,6 +5,11 @@
 - Koneksi internet 
 
 # Instalasi di Termux
+- ### Add private key
+<p align="center">
+  <img src="banner.png" width="800">
+</p> 
+
 - ```pkg update && pkg upgrade -y```
 - ```pkg install python git -y```
 - ```git clone https://github.com/charito-dev/GIWA-Testnet.git```
@@ -13,6 +18,10 @@
 - ```python GIWA.py```
 
 # Menjalankan di Visual Studio Code
+- ### Add private key
+<p align="center">
+  <img src="banner.png" width="800">
+</p> 
 
 - Install Python
 - ```https://www.python.org/downloads/```
@@ -30,6 +39,10 @@
 - Internet connection
 
 # Installation on Termux
+- ### Add private key
+<p align="center">
+  <img src="banner.png" width="800">
+</p> 
 
 - ```pkg update && pkg upgrade -y```
 - ```pkg install python git -y```
@@ -41,10 +54,13 @@
 # Running with Visual Studio Code
 
 ## Install Python
-- Download Python from:
 - ```https://www.python.org/downloads/```
+- ### Add private key
+<p align="center">
+  <img src="banner.png" width="800">
+</p> 
+
 - ```git clone https://github.com/charito-dev/GIWA-Testnet.git```
-- Install dependencies
 - ```pip install -r requirements.txt```
 - ```python GIWA.py```
   
